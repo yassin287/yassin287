@@ -1,5 +1,5 @@
 About Me:
- I’m currently working at Fassla company as a Full Stack Developer.<br><br>💼 With experience in both frontend and backend technologies, I’ve built several dynamic and responsive projects.<br><br>🌱 I’m always eager to learn new technologies and frameworks to improve my skills.<br><br>⚡ Fun fact: I'm an avid gym-goer and love building things both digitally and physically.
+ I’m currently working at Fassla company as a Full Stack Developer.<br><br> With experience in both frontend and backend technologies, I’ve built several dynamic and responsive projects.<br><br> I’m always eager to learn new technologies and frameworks to improve my skills.<br><br> Fun fact: I'm an avid gym-goer and love building things both digitally and physically.
 
 
  Socials:
