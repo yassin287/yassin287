@@ -16,7 +16,7 @@
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&layout=compact&theme=tokyonight&hide_border=false" 
        alt="yassin287's languages" 
-       style="height: 250px; object-fit: contain;"
+       style="height: 150px; object-fit: contain;"
   />
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight" 
