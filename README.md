@@ -12,10 +12,17 @@
 
 
 <section align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="yassin287" />
-  </a>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight" alt="yassin287" />
+  <!-- Same width for both cards -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&layout=compact&theme=tokyonight&hide_border=false&card_width=420" 
+       alt="yassin287's languages" 
+       style="max-width: 100%;"
+  />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight&card_width=420" 
+       alt="yassin287's streak stats" 
+       style="max-width: 100%;"
+  />
 </section>
+
 
