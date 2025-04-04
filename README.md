@@ -60,14 +60,10 @@
 </p>
 
 <section align="center">
-  <!-- Forcing the language card to have a set height -->
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&layout=compact&theme=tokyonight&hide_border=false" 
-       alt="yassin287's languages" 
-       
-  />
+       alt="yassin287's languages">
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight" 
-       alt="yassin287's streak stats" 
-  />
+       alt="yassin287's streak stats">
 </section>
