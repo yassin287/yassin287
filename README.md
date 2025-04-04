@@ -12,16 +12,15 @@
 
 
 <section align="center">
-  <!-- Same width for both cards -->
+  <!-- Forcing the language card to have a set height -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&layout=compact&theme=tokyonight&hide_border=false&card_width=420" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=yassin287&layout=compact&theme=tokyonight&hide_border=false" 
        alt="yassin287's languages" 
-       style="max-width: 100%;"
+       style="height: 250px; object-fit: contain;"
   />
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight&card_width=420" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=yassin287&theme=tokyonight" 
        alt="yassin287's streak stats" 
-       style="max-width: 100%;"
   />
 </section>
 
