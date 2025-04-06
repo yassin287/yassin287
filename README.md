@@ -11,9 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Added new tools: Laravel, JavaScript, HTML, CSS -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg](https://private-user-images.githubusercontent.com/64127744/380431149-b5b0cd6a-0489-4a55-8d6b-e9b286e61271.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5NjU3NTgsIm5iZiI6MTc0Mzk2NTQ1OCwicGF0aCI6Ii82NDEyNzc0NC8zODA0MzExNDktYjViMGNkNmEtMDQ4OS00YTU1LThkNmItZTliMjg2ZTYxMjcxLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA2VDE4NTA1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNzUyYjRlMjg0MzZkYjZlNmM3MzQ5MzhjNWM1MTkxM2VkYTUzYTEzYTQ2MmMyNmVhMjIyNzFkMzNhZDU1YjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LFvk9TISxQOTXmOWrZZ-NAwSNU1-RRUJLbYxqsq4lJw)" alt="Laravel" width="40" height="40"/>
-  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b5b0cd6a-0489-4a55-8d6b-e9b286e61271" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
